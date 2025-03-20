@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Pooja Box</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul class="menu">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Shop</a></li>
+                <li><a href="#">Offers</a></li>
+                <li><a href="#">Categories</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Welcome to My Pooja Box</h1>
+        <p>Your one-stop shop for all pooja essentials</p>
+    </section>
+
+    <section class="categories">
+        <div class="category">Category 1</div>
+        <div class="category">Category 2</div>
+        <div class="category">Category 3</div>
+    </section>
+
+    <section class="usp">
+        <div class="usp-item">Delivery</div>
+        <div class="usp-item">Quality Products</div>
+        <div class="usp-item">Best Prices</div>
+    </section>
+
+    <section class="reviews">
+        <h2>Customer Reviews</h2>
+        <p>"Great products! Loved the quality." - Customer A</p>
+        <p>"Fast shipping and great prices!" - Customer B</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 My Pooja Box. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
